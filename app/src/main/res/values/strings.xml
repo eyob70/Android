@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Digit_recognition</string>
+    <string name="textview">TextView</string>
+    <string name="timecost">TextView</string>
+</resources>
